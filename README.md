@@ -1,2 +1,2 @@
 # firstwork
-first project suing Git
+first project using Git
